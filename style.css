@@ -1,13 +1,20 @@
 div {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    color: blue;   
+    color: rgb(0, 0, 0);   
 }
 
-h1 {
-    background-color: rgb(211, 6, 6);
+h1,
+h2,
+h3 {
+    background-color: rgb(230, 91, 91);
 }
 
 ul {
     list-style-position: inside;
+}
+
+.img {
+    width: 200px;
+    height: auto;
 }
