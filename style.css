@@ -14,7 +14,10 @@ ul {
     list-style-position: inside;
 }
 
-.img {
+.img,
+.porkchop,
+.lasagna,
+.lemon {
     width: 200px;
     height: auto;
 }
